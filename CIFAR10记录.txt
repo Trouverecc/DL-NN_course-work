@@ -1,0 +1,410 @@
+######AdaDelta#####
+Epoch 0/19
+----------
+0 Train Loss: 2.1600 Train Acc: 0.1912
+0 Val Loss: 2.1428 Val Acc: 0.2317
+训练和验证耗费的时间1m35s
+Epoch 1/19
+----------
+1 Train Loss: 2.0278 Train Acc: 0.2578
+1 Val Loss: 1.8909 Val Acc: 0.3381
+训练和验证耗费的时间3m12s
+Epoch 2/19
+----------
+2 Train Loss: 1.8578 Train Acc: 0.3280
+2 Val Loss: 1.7796 Val Acc: 0.3727
+训练和验证耗费的时间4m48s
+Epoch 3/19
+----------
+3 Train Loss: 1.7344 Train Acc: 0.3745
+3 Val Loss: 1.6461 Val Acc: 0.4088
+训练和验证耗费的时间6m24s
+Epoch 4/19
+----------
+4 Train Loss: 1.6319 Train Acc: 0.4097
+4 Val Loss: 1.6070 Val Acc: 0.4248
+训练和验证耗费的时间8m1s
+Epoch 5/19
+----------
+5 Train Loss: 1.5604 Train Acc: 0.4367
+5 Val Loss: 1.5134 Val Acc: 0.4504
+训练和验证耗费的时间9m36s
+Epoch 6/19
+----------
+6 Train Loss: 1.5033 Train Acc: 0.4557
+6 Val Loss: 1.4667 Val Acc: 0.4632
+训练和验证耗费的时间11m11s
+Epoch 7/19
+----------
+7 Train Loss: 1.4522 Train Acc: 0.4754
+7 Val Loss: 1.4666 Val Acc: 0.4695
+训练和验证耗费的时间12m46s
+Epoch 8/19
+----------
+8 Train Loss: 1.4106 Train Acc: 0.4940
+8 Val Loss: 1.4026 Val Acc: 0.4977
+训练和验证耗费的时间14m22s
+Epoch 9/19
+----------
+9 Train Loss: 1.3740 Train Acc: 0.5094
+9 Val Loss: 1.3464 Val Acc: 0.5147
+训练和验证耗费的时间15m58s
+Epoch 10/19
+----------
+10 Train Loss: 1.3396 Train Acc: 0.5216
+10 Val Loss: 1.3845 Val Acc: 0.5105
+训练和验证耗费的时间17m33s
+Epoch 11/19
+----------
+11 Train Loss: 1.3134 Train Acc: 0.5298
+11 Val Loss: 1.3603 Val Acc: 0.5181
+训练和验证耗费的时间19m10s
+Epoch 12/19
+----------
+12 Train Loss: 1.3099 Train Acc: 0.5319
+12 Val Loss: 1.2861 Val Acc: 0.5370
+训练和验证耗费的时间20m56s
+Epoch 13/19
+----------
+13 Train Loss: 1.2855 Train Acc: 0.5419
+13 Val Loss: 1.3318 Val Acc: 0.5272
+训练和验证耗费的时间22m31s
+Epoch 14/19
+----------
+14 Train Loss: 1.2648 Train Acc: 0.5492
+14 Val Loss: 1.2758 Val Acc: 0.5450
+训练和验证耗费的时间24m6s
+Epoch 15/19
+----------
+15 Train Loss: 1.2471 Train Acc: 0.5578
+15 Val Loss: 1.2886 Val Acc: 0.5479
+训练和验证耗费的时间25m41s
+Epoch 16/19
+----------
+16 Train Loss: 1.2267 Train Acc: 0.5616
+16 Val Loss: 1.2527 Val Acc: 0.5558
+训练和验证耗费的时间27m16s
+Epoch 17/19
+----------
+17 Train Loss: 1.2123 Train Acc: 0.5686
+17 Val Loss: 1.2228 Val Acc: 0.5646
+训练和验证耗费的时间28m52s
+Epoch 18/19
+----------
+18 Train Loss: 1.1983 Train Acc: 0.5719
+18 Val Loss: 1.2263 Val Acc: 0.5660
+训练和验证耗费的时间30m27s
+Epoch 19/19
+----------
+19 Train Loss: 1.1837 Train Acc: 0.5788
+19 Val Loss: 1.2285 Val Acc: 0.5637
+训练和验证耗费的时间32m3s
+
+
+#####RMSprop#####
+Epoch 0/19
+----------
+0 Train Loss: 2.1502 Train Acc: 0.2013
+0 Val Loss: 2.0859 Val Acc: 0.2551
+训练和验证耗费的时间1m31s
+Epoch 1/19
+----------
+1 Train Loss: 2.0587 Train Acc: 0.2460
+1 Val Loss: 1.9889 Val Acc: 0.2800
+训练和验证耗费的时间2m59s
+Epoch 2/19
+----------
+2 Train Loss: 1.9610 Train Acc: 0.2909
+2 Val Loss: 1.8696 Val Acc: 0.3236
+训练和验证耗费的时间4m28s
+Epoch 3/19
+----------
+3 Train Loss: 1.8689 Train Acc: 0.3305
+3 Val Loss: 1.9453 Val Acc: 0.2952
+训练和验证耗费的时间5m55s
+Epoch 4/19
+----------
+4 Train Loss: 1.8052 Train Acc: 0.3535
+4 Val Loss: 1.7261 Val Acc: 0.3744
+训练和验证耗费的时间7m24s
+Epoch 5/19
+----------5 Train Loss: 1.7322 Train Acc: 0.3817
+5 Val Loss: 1.6785 Val Acc: 0.3896
+训练和验证耗费的时间8m57s
+Epoch 6/19
+----------
+6 Train Loss: 1.6769 Train Acc: 0.3985
+6 Val Loss: 1.6118 Val Acc: 0.4187
+训练和验证耗费的时间14m36s
+Epoch 7/19
+----------
+7 Train Loss: 1.6309 Train Acc: 0.4148
+7 Val Loss: 1.5776 Val Acc: 0.4358
+训练和验证耗费的时间16m10s
+Epoch 8/19
+----------
+8 Train Loss: 1.5957 Train Acc: 0.4256
+8 Val Loss: 1.6187 Val Acc: 0.4265
+训练和验证耗费的时间17m44s
+Epoch 9/19
+----------
+9 Train Loss: 1.5701 Train Acc: 0.4354
+9 Val Loss: 1.5149 Val Acc: 0.4634
+训练和验证耗费的时间19m19s
+Epoch 10/19
+----------
+10 Train Loss: 1.5446 Train Acc: 0.4459
+10 Val Loss: 1.4955 Val Acc: 0.4688
+训练和验证耗费的时间20m50s
+Epoch 11/19
+----------
+11 Train Loss: 1.5267 Train Acc: 0.4519
+11 Val Loss: 1.5287 Val Acc: 0.4455
+训练和验证耗费的时间22m21s
+Epoch 12/19
+----------
+12 Train Loss: 1.5051 Train Acc: 0.4590
+12 Val Loss: 1.4741 Val Acc: 0.4770
+训练和验证耗费的时间23m52s
+Epoch 13/19
+----------
+13 Train Loss: 1.4863 Train Acc: 0.4667
+13 Val Loss: 1.4445 Val Acc: 0.4814
+训练和验证耗费的时间25m26s
+Epoch 14/19
+----------
+14 Train Loss: 1.4650 Train Acc: 0.4748
+14 Val Loss: 1.5111 Val Acc: 0.4572
+训练和验证耗费的时间26m57s
+Epoch 15/19
+----------
+15 Train Loss: 1.4477 Train Acc: 0.4831
+15 Val Loss: 1.4479 Val Acc: 0.4828
+训练和验证耗费的时间28m27s
+Epoch 16/19
+----------
+16 Train Loss: 1.4268 Train Acc: 0.4899
+16 Val Loss: 1.4062 Val Acc: 0.5003
+训练和验证耗费的时间29m58s
+Epoch 17/19
+----------
+17 Train Loss: 1.4100 Train Acc: 0.4954
+17 Val Loss: 1.3994 Val Acc: 0.5070
+训练和验证耗费的时间31m29s
+Epoch 18/19
+----------
+18 Train Loss: 1.3932 Train Acc: 0.5025
+18 Val Loss: 1.3692 Val Acc: 0.5111
+训练和验证耗费的时间33m0s
+Epoch 19/19
+----------
+19 Train Loss: 1.3784 Train Acc: 0.5070
+19 Val Loss: 1.3796 Val Acc: 0.5105
+训练和验证耗费的时间34m31s
+
+
+#####SGD#####
+Epoch 0/19
+----------
+0 Train Loss: 2.3034 Train Acc: 0.1025
+0 Val Loss: 2.3031 Val Acc: 0.0996
+训练和验证耗费的时间1m52s
+Epoch 1/19
+----------
+1 Train Loss: 2.3032 Train Acc: 0.1006
+1 Val Loss: 2.3023 Val Acc: 0.1027
+训练和验证耗费的时间3m47s
+Epoch 2/19
+----------
+2 Train Loss: 2.3021 Train Acc: 0.1048
+2 Val Loss: 2.3012 Val Acc: 0.1002
+训练和验证耗费的时间5m40s
+Epoch 3/19
+----------
+3 Train Loss: 2.3003 Train Acc: 0.1101
+3 Val Loss: 2.2980 Val Acc: 0.1132
+训练和验证耗费的时间7m17s
+Epoch 4/19
+----------
+4 Train Loss: 2.2902 Train Acc: 0.1395
+4 Val Loss: 2.2722 Val Acc: 0.1470
+训练和验证耗费的时间9m12s
+Epoch 5/19
+----------
+5 Train Loss: 2.1835 Train Acc: 0.1871
+5 Val Loss: 2.0953 Val Acc: 0.2113
+训练和验证耗费的时间11m3s
+Epoch 6/19
+----------
+6 Train Loss: 2.0852 Train Acc: 0.2207
+6 Val Loss: 2.0688 Val Acc: 0.2220
+训练和验证耗费的时间12m52s
+Epoch 7/19
+----------
+7 Train Loss: 2.0583 Train Acc: 0.2327
+7 Val Loss: 2.0463 Val Acc: 0.2347
+训练和验证耗费的时间14m28s
+Epoch 8/19
+----------
+8 Train Loss: 2.0389 Train Acc: 0.2470
+8 Val Loss: 2.0310 Val Acc: 0.2452
+训练和验证耗费的时间16m5s
+Epoch 9/19
+----------
+9 Train Loss: 2.0265 Train Acc: 0.2546
+9 Val Loss: 2.0270 Val Acc: 0.2627
+训练和验证耗费的时间17m40s
+Epoch 10/19
+----------
+10 Train Loss: 2.0104 Train Acc: 0.2656
+10 Val Loss: 1.9956 Val Acc: 0.2682
+训练和验证耗费的时间19m26s
+Epoch 11/19
+----------
+11 Train Loss: 1.9887 Train Acc: 0.2745
+11 Val Loss: 1.9695 Val Acc: 0.2804
+训练和验证耗费的时间21m24s
+Epoch 12/19
+----------
+12 Train Loss: 1.9597 Train Acc: 0.2840
+12 Val Loss: 1.9710 Val Acc: 0.2773
+训练和验证耗费的时间23m19s
+Epoch 13/19
+----------
+13 Train Loss: 1.9258 Train Acc: 0.2977
+13 Val Loss: 1.9207 Val Acc: 0.2988
+训练和验证耗费的时间25m16s
+Epoch 14/19
+----------
+14 Train Loss: 1.8866 Train Acc: 0.3144
+14 Val Loss: 1.8568 Val Acc: 0.3250
+训练和验证耗费的时间27m15s
+Epoch 15/19
+----------
+15 Train Loss: 1.8402 Train Acc: 0.3311
+15 Val Loss: 1.7997 Val Acc: 0.3461
+训练和验证耗费的时间28m59s
+Epoch 16/19
+----------
+16 Train Loss: 1.7918 Train Acc: 0.3503
+16 Val Loss: 1.7518 Val Acc: 0.3619
+训练和验证耗费的时间30m50s
+Epoch 17/19
+----------
+17 Train Loss: 1.7523 Train Acc: 0.3645
+17 Val Loss: 1.7219 Val Acc: 0.3742
+训练和验证耗费的时间32m47s
+Epoch 18/19
+----------
+18 Train Loss: 1.7189 Train Acc: 0.3736
+18 Val Loss: 1.7042 Val Acc: 0.3727
+训练和验证耗费的时间34m33s
+Epoch 19/19
+----------
+19 Train Loss: 1.6950 Train Acc: 0.3808
+19 Val Loss: 1.6688 Val Acc: 0.3830
+训练和验证耗费的时间36m4s
+
+
+#####Adam#####
+Epoch 0/19
+----------
+0 Train Loss: 2.1355 Train Acc: 0.2017
+0 Val Loss: 2.1563 Val Acc: 0.1728
+训练和验证耗费的时间2m8s
+Epoch 1/19
+----------
+1 Train Loss: 1.9680 Train Acc: 0.2936
+1 Val Loss: 1.9142 Val Acc: 0.3143
+训练和验证耗费的时间3m46s
+Epoch 2/19
+----------
+2 Train Loss: 1.8693 Train Acc: 0.3354
+2 Val Loss: 1.8244 Val Acc: 0.3603
+训练和验证耗费的时间5m23s
+Epoch 3/19
+----------
+3 Train Loss: 1.7884 Train Acc: 0.3613
+3 Val Loss: 1.8523 Val Acc: 0.3439
+训练和验证耗费的时间6m58s
+Epoch 4/19
+----------
+4 Train Loss: 1.7237 Train Acc: 0.3809
+4 Val Loss: 1.7327 Val Acc: 0.3866
+训练和验证耗费的时间8m33s
+Epoch 5/19
+----------
+5 Train Loss: 1.6624 Train Acc: 0.4023
+5 Val Loss: 1.6946 Val Acc: 0.3931
+训练和验证耗费的时间10m11s
+Epoch 6/19
+----------
+6 Train Loss: 1.6053 Train Acc: 0.4204
+6 Val Loss: 1.6621 Val Acc: 0.4135
+训练和验证耗费的时间11m47s
+Epoch 7/19
+----------
+7 Train Loss: 1.5606 Train Acc: 0.4336
+7 Val Loss: 1.5948 Val Acc: 0.4364
+训练和验证耗费的时间13m22s
+Epoch 8/19
+----------
+8 Train Loss: 1.5203 Train Acc: 0.4496
+8 Val Loss: 1.5428 Val Acc: 0.4467
+训练和验证耗费的时间15m1s
+Epoch 9/19
+----------
+9 Train Loss: 1.4855 Train Acc: 0.4654
+9 Val Loss: 1.5178 Val Acc: 0.4494
+训练和验证耗费的时间17m5s
+Epoch 10/19
+----------
+10 Train Loss: 1.4589 Train Acc: 0.4755
+10 Val Loss: 1.4993 Val Acc: 0.4578
+训练和验证耗费的时间19m16s
+Epoch 11/19
+----------
+11 Train Loss: 1.4329 Train Acc: 0.4867
+11 Val Loss: 1.4576 Val Acc: 0.4805
+训练和验证耗费的时间21m13s
+Epoch 12/19
+----------
+12 Train Loss: 1.4042 Train Acc: 0.4991
+12 Val Loss: 1.4528 Val Acc: 0.4827
+训练和验证耗费的时间23m13s
+Epoch 13/19
+----------
+13 Train Loss: 1.3829 Train Acc: 0.5082
+13 Val Loss: 1.4172 Val Acc: 0.4905
+训练和验证耗费的时间25m14s
+Epoch 14/19
+----------
+14 Train Loss: 1.3604 Train Acc: 0.5151
+14 Val Loss: 1.3948 Val Acc: 0.5062
+训练和验证耗费的时间27m11s
+Epoch 15/19
+----------
+15 Train Loss: 1.3391 Train Acc: 0.5232
+15 Val Loss: 1.3591 Val Acc: 0.5190
+训练和验证耗费的时间29m6s
+Epoch 16/19
+----------
+16 Train Loss: 1.3210 Train Acc: 0.5289
+16 Val Loss: 1.3490 Val Acc: 0.5244
+训练和验证耗费的时间30m38s
+Epoch 17/19
+----------
+17 Train Loss: 1.2995 Train Acc: 0.5336
+17 Val Loss: 1.3563 Val Acc: 0.5267
+训练和验证耗费的时间32m11s
+Epoch 18/19
+----------
+18 Train Loss: 1.2888 Train Acc: 0.5434
+18 Val Loss: 1.3705 Val Acc: 0.5174
+训练和验证耗费的时间33m43s
+Epoch 19/19
+----------
+19 Train Loss: 1.2749 Train Acc: 0.5468
+19 Val Loss: 1.4222 Val Acc: 0.4987
+训练和验证耗费的时间35m37s
+
