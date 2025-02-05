@@ -3,7 +3,7 @@
 - mid 分支
   - 主要进行了LeNet-5的模型优化方法的比较分析
   - 对LeNet-5模型优化方法进行比较分析或改进；
-  - 比较三种的优化方法（动量SGD, AdaDelta, Adam等）；
+  - 比较三种的优化方法（动量SGD, AdaDelta, Adam, RMSprop）；
   - 在MNIST/Cifar-10数据集分析比较不同优化方法的收敛行为和泛化性。
 
 - main分支
